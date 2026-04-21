@@ -1,4 +1,4 @@
-# XIGNCODE Log Viewer v1.1
+# XIGNCODE Log Viewer v1.0
 
 <div align="center">
 
