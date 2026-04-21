@@ -895,73 +895,73 @@ Toplam 23 blokta checksum bulundu.
 
 === Tum ChecLxhc Konumlari ===
   #1 Blok 248 (0x13730)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0xf9 (249)
   #2 Blok 262 (0x148b0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x107 (263)
   #3 Blok 263 (0x149f0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x108 (264)
   #4 Blok 268 (0x15030)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x10d (269)
   #5 Blok 269 (0x15170)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x10e (270)
   #6 Blok 272 (0x15530)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x111 (273)
   #7 Blok 273 (0x15670)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x112 (274)
   #8 Blok 274 (0x157b0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x113 (275)
   #9 Blok 276 (0x15a30)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x115 (277)
   #10 Blok 277 (0x15b70)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x116 (278)
   #11 Blok 278 (0x15cb0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x117 (279)
   #12 Blok 280 (0x15f30)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x119 (281)
   #13 Blok 281 (0x16070)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x11a (282)
   #14 Blok 282 (0x161b0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x11b (283)
   #15 Blok 284 (0x16430)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x11d (285)
   #16 Blok 285 (0x16570)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x11e (286)
   #17 Blok 286 (0x166b0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x11f (287)
   #18 Blok 288 (0x16930)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x121 (289)
   #19 Blok 289 (0x16a70)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x122 (290)
   #20 Blok 290 (0x16bb0)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x123 (291)
   #21 Blok 292 (0x16e30)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x125 (293)
   #22 Blok 293 (0x16f70)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x126 (294)
   #23 Blok 884 (0x45230)
-    UTF-16LE: rnel32.dll
+    UTF-16LE: kernel32.dll
     Sonraki DWORD: 0x375 (885)
 
 Toplam 23 adet ChecLxhc bulundu.
